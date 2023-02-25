@@ -1,1 +1,1 @@
-![plot](app/images/Qr/preview.png)
+![plot](preview.png)
